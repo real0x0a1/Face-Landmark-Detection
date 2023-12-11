@@ -11,8 +11,8 @@ The "Face Landmark Detection" project utilizes the power of Mediapipe, an open-s
 Before running the script, ensure that you have the required dependencies installed. You can install them using the following commands:
 
 ```bash
-pip install opencv-python
-pip install mediapipe
+pip3 install opencv-python
+pip3 install mediapipe
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ pip install mediapipe
 2. Run the script:
 
    ```bash
-   python FaceLandmarkDetection.py
+   python3 FaceLandmarkDetection.py
    ```
 
 3. Press 'q' to exit the application.
