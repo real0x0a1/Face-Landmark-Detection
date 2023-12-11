@@ -1,5 +1,7 @@
 # Face Landmark Detection
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 The "Face Landmark Detection" project utilizes the power of Mediapipe, an open-source library, to identify and visualize facial landmarks in real-time through a webcam feed. The script captures video frames from the default camera (camera index 0), applies facial landmark detection, and overlays green dots on the detected facial landmarks. The landmarks include key points such as eyes, nose, and mouth.
